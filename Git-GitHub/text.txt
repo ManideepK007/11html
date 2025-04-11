@@ -1,0 +1,11 @@
+Git: A software that needs to be downloaded and installed in desktop (system). Git is a distributed Version Control System.
+-> Maintained and developed by Oracle.
+(Version - Changes - )
+Download the "Git"
+i. goto "https://git-scm.com/downloads".
+ii. download for specific OS -> 64 bit windows setup
+iii. install (next until install and finish)
+iv. goto cmd and type git -v
+How to use Git?
+VSCode->terminal->new terminal->commands
+U-> untracking
