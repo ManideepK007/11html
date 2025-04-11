@@ -7,5 +7,22 @@ ii. download for specific OS -> 64 bit windows setup
 iii. install (next until install and finish)
 iv. goto cmd and type git -v
 How to use Git?
-VSCode->terminal->new terminal->commands
+VSCode->terminal->new terminal->commandprompt
+
 U-> untracking
+
+
+git add . is better
+git commit -m "message"
+for first time use git config --global "urusername"
+git config --global user.email "uremailIDforGitHub account".
+again do step iii and iv.
+Git is used to track versions.
+GitHub website to push our code
+BitBucket AmazonCode GitLab googledrive terabox whatsapp
+GitHub commands:
+i. goto github.com
+GitHub - repository as folder
+goto github.com and create an account
+git remote add origin "link".git
+git push -u origin main
