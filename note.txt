@@ -1,2 +1,5 @@
 cssgridgarden.com
 Saves code as versions
+Like a stalker.
+After committing, code is finalized.
+git branching
